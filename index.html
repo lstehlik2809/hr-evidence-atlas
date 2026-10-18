@@ -236,12 +236,13 @@ window.selectHrEvidence = function selectHrEvidence(studies, state) {
     currentStudy=s;returnFocus=document.activeElement;
     $('dialog-id').textContent=s.id;
     const estimate=s.effect!==null&&s.effect!==undefined?`${(s.effect*100).toLocaleString('en',{maximumFractionDigits:2})}% · ${s.effect_unit}`:s.effect_unit||'No single comparable estimate extracted';
+    const estimateNote=s.effect_note&&s.effect_note.replace(/\.$/,'')!==estimate.replace(/\.$/,'')?`<p>${esc(s.effect_note)}</p>`:'';
     const item=(label,text)=>`<div class="detail-item"><span class="detail-label">${esc(label)}</span><p>${esc(text||'Not extracted')}</p></div>`;
     $('dialog-content').innerHTML=`<p class="dialog-domain">${esc(s.practice_group)} / ${esc(s.tier)}</p><h2 id="dialog-title">${esc(s.title)}</h2><p class="dialog-citation">${esc(s.authors)}<br>${esc(s.journal)} · ${s.year}</p>
       ${s.status!=='Included'?'<div class="detail-risk"><span class="detail-label">Date unresolved</span><p>This candidate is excluded from retained-paper counts until original publication timing is verified.</p></div>':''}
       <p class="detail-finding">${esc(s.finding)}</p>
       <div class="detail-grid">${item('What was measured',s.outcomes)}${item('Setting & population',s.setting)}${item('Identification / comparison',s.design)}${item('Sample',s.sample)}</div>
-      <div class="detail-estimate"><span>Reported estimate</span><p>${esc(estimate)}</p><p>${esc(s.effect_note)}</p></div>
+      <div class="detail-estimate"><span>Reported estimate</span><p>${esc(estimate)}</p>${estimateNote}</div>
       <div class="detail-risk"><span class="detail-label">What limits the conclusion</span><p>${esc(s.identification_risk)}</p></div>
       <div class="detail-grid">${item('Verification depth',s.depth)}${item('Publication timing',s.date_label)}${item('Date qualification',s.date_basis)}${item('Result direction',s.direction)}</div>
       <p class="detail-notes">This is a scoping-review note, not a complete risk-of-bias assessment. The available source checks are stated above. Full text, uncertainty estimates and alternative specifications should be checked before relying on the finding.</p>
