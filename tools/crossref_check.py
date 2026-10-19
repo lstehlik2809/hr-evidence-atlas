@@ -1,4 +1,4 @@
-"""Monthly evidence check against Crossref.
+"""Evidence check against Crossref (run on demand).
 
 1. Verifies that every listed DOI resolves to the recorded title and an
    online date inside the review window.
@@ -42,7 +42,7 @@ CAUSAL_TERMS = re.compile(
 def get(path, params=None, retries=4):
     url = API + path + ("?" + urllib.parse.urlencode(params, safe=":,") if params else "")
     mailto = os.environ.get("CROSSREF_MAILTO")
-    agent = "hr-evidence-atlas-check/1.0" + (f" (mailto:{mailto})" if mailto else "")
+    agent = "hr-causal-evidence-map-check/1.0" + (f" (mailto:{mailto})" if mailto else "")
     for attempt in range(retries):
         try:
             with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": agent}), timeout=60) as r:

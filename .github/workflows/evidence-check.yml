@@ -1,10 +1,9 @@
-name: Monthly evidence check
+name: Evidence check
 
-# Verifies listed DOIs against Crossref and lists new candidate studies.
-# Opens (or comments on) an issue for manual review; never edits the data.
+# Verifies listed DOIs against Crossref and lists candidate studies not yet screened.
+# Manual only: this is a single edition. Opens (or comments on) an issue for
+# manual review; never edits the data.
 on:
-  schedule:
-    - cron: "17 6 3 * *"
   workflow_dispatch:
 
 permissions:

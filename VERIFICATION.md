@@ -16,7 +16,7 @@ Redesign of 19 October 2026. Checks were run in headless Chromium (Playwright) a
 
 ## Not verified
 
-- **DOIs and dates against Crossref.** Crossref was unreachable from the build environment (network policy). The monthly workflow performs this check on GitHub's network; run it once by hand (Actions → Monthly evidence check → Run workflow) and review the issue it opens.
+- **DOIs and dates against Crossref.** Crossref was unreachable from the build environment (network policy). The *Evidence check* workflow performs this check on GitHub's network; run it once by hand (Actions → Evidence check → Run workflow) and review the issue it opens.
 - **Result and lever codes** were drafted by an AI assistant from abstract-level findings and have **not been reviewed by a person**. See `CODEBOOK.md`.
 - **Pre-registration** was not checked in any registry: 3 studies state it in their design and the rest are "not checked".
 - The workflows have not yet run on GitHub.
