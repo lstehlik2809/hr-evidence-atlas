@@ -43,7 +43,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1257/app.20220451",
       "date_label": "2025-07-01",
-      "citation": "Jarkko Harju; Simon Jäger; Benjamin Schoefer (2025). Voice at Work American Economic Journal Applied Economics. https://doi.org/10.1257/app.20220451"
+      "citation": "Jarkko Harju; Simon Jäger; Benjamin Schoefer (2025). Voice at Work American Economic Journal Applied Economics. https://doi.org/10.1257/app.20220451",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "mandate",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S002",
@@ -76,7 +81,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1111/bjir.70020",
       "date_label": "2025-11-12",
-      "citation": "Susan Schwarz; Jun Du; Uzoamaka Nduka; Lin Zhang (2025). The Impact of Staff and Manager Training on Firm Productivity: Differential and Interaction Effects British Journal of Industrial Relations. https://doi.org/10.1111/bjir.70020"
+      "citation": "Susan Schwarz; Jun Du; Uzoamaka Nduka; Lin Zhang (2025). The Impact of Staff and Manager Training on Firm Productivity: Differential and Interaction Effects British Journal of Industrial Relations. https://doi.org/10.1111/bjir.70020",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "methods",
+      "prereg": "not_checked"
     },
     {
       "id": "S003",
@@ -109,7 +119,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1002/hrm.22321",
       "date_label": "2025-07-16",
-      "citation": "Andreas Georgiadis; Andreas Kornelakis (2025). Pay and Train to Sustain: A Dynamic Human Capital Resources View of the Relationship Between HRM Practices and Organizational Performance Over Time Human Resource Management. https://doi.org/10.1002/hrm.22321"
+      "citation": "Andreas Georgiadis; Andreas Kornelakis (2025). Pay and Train to Sustain: A Dynamic Human Capital Resources View of the Relationship Between HRM Practices and Organizational Performance Over Time Human Resource Management. https://doi.org/10.1002/hrm.22321",
+      "direction_code": "improved",
+      "direction_rationale": "Coded improved: growth was larger where initial human-capital stocks were low, but no subgroup reported a decline.",
+      "lever": "employer",
+      "depth_level": "methods",
+      "prereg": "not_checked"
     },
     {
       "id": "S004",
@@ -142,7 +157,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1111/jems.12640",
       "date_label": "2025-04-23",
-      "citation": "Thomas Gall; Xiaocheng Hu; Michael Vlassopoulos (2025). Incentivizing Team Leaders: A Firm‐Level Experiment on Subjective Performance Evaluation of Leadership Skills Journal of Economics and Management Strategy. https://doi.org/10.1111/jems.12640"
+      "citation": "Thomas Gall; Xiaocheng Hu; Michael Vlassopoulos (2025). Incentivizing Team Leaders: A Firm‐Level Experiment on Subjective Performance Evaluation of Leadership Skills Journal of Economics and Management Strategy. https://doi.org/10.1111/jems.12640",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S005",
@@ -175,7 +195,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1177/01492063251331007",
       "date_label": "2025-05-10",
-      "citation": "BingKun Zhang; Kevin Zheng Zhou; En Xie (2025). Effort Redirection Across Multiple Career Tracks: Salary-Cut Policy and State-Owned Enterprises in China Journal of Management. https://doi.org/10.1177/01492063251331007"
+      "citation": "BingKun Zhang; Kevin Zheng Zhou; En Xie (2025). Effort Redirection Across Multiple Career Tracks: Salary-Cut Policy and State-Owned Enterprises in China Journal of Management. https://doi.org/10.1177/01492063251331007",
+      "direction_code": "worsened",
+      "direction_rationale": "Coded worsened: operational efficiency, the business-performance outcome, fell. The rise in politically rewarded job creation is not a business-performance gain.",
+      "lever": "mandate",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S006",
@@ -208,7 +233,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1177/01492063251381324",
       "date_label": "2025-12-10",
-      "citation": "Wenlong He; Dan Prud’homme; Nianchen Han; Kenneth G. Huang (2025). Inventor Rewards, Specialization, and Innovation Performance Journal of Management. https://doi.org/10.1177/01492063251381324"
+      "citation": "Wenlong He; Dan Prud’homme; Nianchen Han; Kenneth G. Huang (2025). Inventor Rewards, Specialization, and Innovation Performance Journal of Management. https://doi.org/10.1177/01492063251381324",
+      "direction_code": "mixed",
+      "direction_rationale": "",
+      "lever": "mandate",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S007",
@@ -241,7 +271,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1002/job.2888",
       "date_label": "2025-06-22",
-      "citation": "Catherine G. Collins; Cristina Gibson (2025). Designing Teams for the Future: How a “Permeable Organizational Design” Intervention Enables Environmental Prognostication to Promote Turning Points in Team Trajectories Journal of Organizational Behavior. https://doi.org/10.1002/job.2888"
+      "citation": "Catherine G. Collins; Cristina Gibson (2025). Designing Teams for the Future: How a “Permeable Organizational Design” Intervention Enables Environmental Prognostication to Promote Turning Points in Team Trajectories Journal of Organizational Behavior. https://doi.org/10.1002/job.2888",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S008",
@@ -274,7 +309,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1287/mnsc.2022.03849",
       "date_label": "2025-06-09",
-      "citation": "Sebastian Krakowski; Darek Haftor; Johannes Luger; Natallia Pashkevich; Sebastian Raisch (2025). Human-Centered Artificial Intelligence: A Field Experiment Management Science. https://doi.org/10.1287/mnsc.2022.03849"
+      "citation": "Sebastian Krakowski; Darek Haftor; Johannes Luger; Natallia Pashkevich; Sebastian Raisch (2025). Human-Centered Artificial Intelligence: A Field Experiment Management Science. https://doi.org/10.1287/mnsc.2022.03849",
+      "direction_code": "mixed",
+      "direction_rationale": "",
+      "lever": "technology",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S009",
@@ -307,7 +347,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1287/mnsc.2022.04085",
       "date_label": "2025-10-10",
-      "citation": "Francesco Bogliacino; Gianluca Grimalda; David Pipke (2025). No Gifts Returned: Surprise Bonuses Reduce Productivity in a Natural Field Experiment Management Science. https://doi.org/10.1287/mnsc.2022.04085"
+      "citation": "Francesco Bogliacino; Gianluca Grimalda; David Pipke (2025). No Gifts Returned: Surprise Bonuses Reduce Productivity in a Natural Field Experiment Management Science. https://doi.org/10.1287/mnsc.2022.04085",
+      "direction_code": "worsened",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S010",
@@ -340,7 +385,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1287/mnsc.2023.01381",
       "date_label": "2025-08-11",
-      "citation": "Anik Ashraf (2025). Performance Ranks, Conformity, and Cooperation: Evidence from a Sweater Factory Management Science. https://doi.org/10.1287/mnsc.2023.01381"
+      "citation": "Anik Ashraf (2025). Performance Ranks, Conformity, and Cooperation: Evidence from a Sweater Factory Management Science. https://doi.org/10.1287/mnsc.2023.01381",
+      "direction_code": "worsened",
+      "direction_rationale": "Coded worsened: public ranks lowered productivity; private ranks had no average effect. No arm improved output.",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S011",
@@ -373,7 +423,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1287/mnsc.2022.02199",
       "date_label": "2025-03-10",
-      "citation": "Isabella Grabner; Judith Künneke; Frank Moers (2025). Promotion Decisions and the Adoption of Explicit Potential Assessment Management Science. https://doi.org/10.1287/mnsc.2022.02199"
+      "citation": "Isabella Grabner; Judith Künneke; Frank Moers (2025). Promotion Decisions and the Adoption of Explicit Potential Assessment Management Science. https://doi.org/10.1287/mnsc.2022.02199",
+      "direction_code": "worsened",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "methods",
+      "prereg": "not_checked"
     },
     {
       "id": "S012",
@@ -406,7 +461,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1287/mnsc.2024.07524",
       "date_label": "2025-09-15",
-      "citation": "Jason Sandvik; Richard Saouma; Nathan Seegert; Christopher Stanton (2025). Should Human Capital Development Programs be Mandatory or Voluntary? Evidence from a Field Experiment on Mentorship Management Science. https://doi.org/10.1287/mnsc.2024.07524"
+      "citation": "Jason Sandvik; Richard Saouma; Nathan Seegert; Christopher Stanton (2025). Should Human Capital Development Programs be Mandatory or Voluntary? Evidence from a Field Experiment on Mentorship Management Science. https://doi.org/10.1287/mnsc.2024.07524",
+      "direction_code": "improved",
+      "direction_rationale": "Coded improved: the mandatory arm raised productivity; the voluntary arm showed no detected improvement. No arm worsened it.",
+      "lever": "employer",
+      "depth_level": "methods",
+      "prereg": "not_checked"
     },
     {
       "id": "S013",
@@ -439,7 +499,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1287/mnsc.2022.02395",
       "date_label": "2025-05-15",
-      "citation": "Ethan Bernstein; Shelley Xin Li (2025). The Performance Effects of Giving Front-Line Employees Direct Access to Performance Data and Thereby Limiting the Supervisor’s Feedback-Intermediation Role: Evidence from a Field Experiment Management Science. https://doi.org/10.1287/mnsc.2022.02395"
+      "citation": "Ethan Bernstein; Shelley Xin Li (2025). The Performance Effects of Giving Front-Line Employees Direct Access to Performance Data and Thereby Limiting the Supervisor’s Feedback-Intermediation Role: Evidence from a Field Experiment Management Science. https://doi.org/10.1287/mnsc.2022.02395",
+      "direction_code": "improved",
+      "direction_rationale": "Coded improved on the measured outcome (less nonproductive time). The paper does not show that revenue rose.",
+      "lever": "employer",
+      "depth_level": "methods",
+      "prereg": "not_checked"
     },
     {
       "id": "S014",
@@ -472,7 +537,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1162/rest_a_01587",
       "date_label": "2025-04-21",
-      "citation": "Hyuncheol Bryant Kim; Hyunseob Kim; John Y. Zhu (2025). The Selection Effects of Part-Time Work: Experimental Evidence from a Large-Scale Recruitment Drive Review of Economics and Statistics. https://doi.org/10.1162/rest_a_01587"
+      "citation": "Hyuncheol Bryant Kim; Hyunseob Kim; John Y. Zhu (2025). The Selection Effects of Part-Time Work: Experimental Evidence from a Large-Scale Recruitment Drive Review of Economics and Statistics. https://doi.org/10.1162/rest_a_01587",
+      "direction_code": "worsened",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S015",
@@ -505,7 +575,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1007/s11187-025-01117-z",
       "date_label": "2025-10-20",
-      "citation": "Jozef Konings; Aaron Putseys (2025). The impact of on-the-job training subsidies on firm-level outcomes: evidence from Flemish SMEs Small Business Economics. https://doi.org/10.1007/s11187-025-01117-z"
+      "citation": "Jozef Konings; Aaron Putseys (2025). The impact of on-the-job training subsidies on firm-level outcomes: evidence from Flemish SMEs Small Business Economics. https://doi.org/10.1007/s11187-025-01117-z",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "mandate",
+      "depth_level": "methods",
+      "prereg": "not_checked"
     },
     {
       "id": "S016",
@@ -538,7 +613,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1002/smj.3707",
       "date_label": "2025-03-25",
-      "citation": "Cédric Gutierrez; Tomasz Obloj; Todd Zenger (2025). Pay transparency and productivity Strategic Management Journal. https://doi.org/10.1002/smj.3707"
+      "citation": "Cédric Gutierrez; Tomasz Obloj; Todd Zenger (2025). Pay transparency and productivity Strategic Management Journal. https://doi.org/10.1002/smj.3707",
+      "direction_code": "mixed",
+      "direction_rationale": "Coded mixed: no average decline, but overpaid employees raised effort while underpaid employees weakly reduced it.",
+      "lever": "mandate",
+      "depth_level": "methods",
+      "prereg": "not_checked"
     },
     {
       "id": "S017",
@@ -571,7 +651,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1111/bjir.70053",
       "date_label": "2026-04-28",
-      "citation": "Hildebrando Pahula; Charles Ambilichu (2026). Gender Pay Disclosure and Firm Performance: Quasi‐Experimental Evidence From the United Kingdom British Journal of Industrial Relations. https://doi.org/10.1111/bjir.70053"
+      "citation": "Hildebrando Pahula; Charles Ambilichu (2026). Gender Pay Disclosure and Firm Performance: Quasi‐Experimental Evidence From the United Kingdom British Journal of Industrial Relations. https://doi.org/10.1111/bjir.70053",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "mandate",
+      "depth_level": "methods",
+      "prereg": "not_checked"
     },
     {
       "id": "S018",
@@ -604,7 +689,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.3982/ecta18759",
       "date_label": "2026 · exact online date unverified",
-      "citation": "Rocco Macchiavello; Andreas Menzel; Atonu Rabbani; Christopher Woodruff (2026). Promoting Women to Managerial Roles in the Bangladeshi Garment Sector Econometrica. https://doi.org/10.3982/ecta18759"
+      "citation": "Rocco Macchiavello; Andreas Menzel; Atonu Rabbani; Christopher Woodruff (2026). Promoting Women to Managerial Roles in the Bangladeshi Garment Sector Econometrica. https://doi.org/10.3982/ecta18759",
+      "direction_code": "worsened",
+      "direction_rationale": "Coded worsened: female supervisors initially performed worse amid bias; retained supervisors later performed similarly. No performance gain was reported.",
+      "lever": "employer",
+      "depth_level": "methods",
+      "prereg": "not_checked"
     },
     {
       "id": "S019",
@@ -637,7 +727,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1002/hrm.70079",
       "date_label": "2026-05-21",
-      "citation": "Xiaoyue Wu; Wei He; Jingzhou Pan (2026). Timing Matters: How Pay‐For‐Performance Payment Timing Motivates Lower‐Performing Employees in Pay‐For‐Performance Systems Human Resource Management. https://doi.org/10.1002/hrm.70079"
+      "citation": "Xiaoyue Wu; Wei He; Jingzhou Pan (2026). Timing Matters: How Pay‐For‐Performance Payment Timing Motivates Lower‐Performing Employees in Pay‐For‐Performance Systems Human Resource Management. https://doi.org/10.1002/hrm.70079",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S020",
@@ -670,7 +765,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1016/j.jebo.2025.107412",
       "date_label": "2026 · exact online date unverified",
-      "citation": "Raicho Bojilov; Francisco Brahm; Joaquin Poblete (2026). Measuring the output reduction due to incentive ratcheting in the field Journal of Economic Behavior and Organization. https://doi.org/10.1016/j.jebo.2025.107412"
+      "citation": "Raicho Bojilov; Francisco Brahm; Joaquin Poblete (2026). Measuring the output reduction due to incentive ratcheting in the field Journal of Economic Behavior and Organization. https://doi.org/10.1016/j.jebo.2025.107412",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "methods",
+      "prereg": "not_checked"
     },
     {
       "id": "S021",
@@ -703,7 +803,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1111/jems.70039",
       "date_label": "2026-07-02",
-      "citation": "Johannes Lehmann (2026). The Productivity Effect of High Involvement Management: Causal Evidence From Germany Journal of Economics and Management Strategy. https://doi.org/10.1111/jems.70039"
+      "citation": "Johannes Lehmann (2026). The Productivity Effect of High Involvement Management: Causal Evidence From Germany Journal of Economics and Management Strategy. https://doi.org/10.1111/jems.70039",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "methods",
+      "prereg": "not_checked"
     },
     {
       "id": "S022",
@@ -736,7 +841,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1287/mnsc.2024.08287",
       "date_label": "2026-04-30",
-      "citation": "Francisco Brahm; Jeanne Lafortune; Catherine Magelssen; Jose Tessada (2026). Collaboration, Workplace Practice Adoption, and Performance: Evidence from a Field Experiment Management Science. https://doi.org/10.1287/mnsc.2024.08287"
+      "citation": "Francisco Brahm; Jeanne Lafortune; Catherine Magelssen; Jose Tessada (2026). Collaboration, Workplace Practice Adoption, and Performance: Evidence from a Field Experiment Management Science. https://doi.org/10.1287/mnsc.2024.08287",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "methods",
+      "prereg": "not_checked"
     },
     {
       "id": "S023",
@@ -769,7 +879,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1287/mnsc.2020.03837",
       "date_label": "2026-04-01",
-      "citation": "Hugh Xiaolong Wu; Shannon X. Liu (2026). The Trade-Offs of Letting Local Managers Make Hiring Decisions Management Science. https://doi.org/10.1287/mnsc.2020.03837"
+      "citation": "Hugh Xiaolong Wu; Shannon X. Liu (2026). The Trade-Offs of Letting Local Managers Make Hiring Decisions Management Science. https://doi.org/10.1287/mnsc.2020.03837",
+      "direction_code": "mixed",
+      "direction_rationale": "Coded mixed: mean productivity and sales rose, but some stores lost.",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S024",
@@ -802,7 +917,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1287/orsc.2024.19399",
       "date_label": "2026-01-08",
-      "citation": "Julien Clement; Sarath Balachandran (2026). Roadmap or Compass? The Value of Prior Collaborative Experience in an Unfamiliar Task Environment Organization Science. https://doi.org/10.1287/orsc.2024.19399"
+      "citation": "Julien Clement; Sarath Balachandran (2026). Roadmap or Compass? The Value of Prior Collaborative Experience in an Unfamiliar Task Environment Organization Science. https://doi.org/10.1287/orsc.2024.19399",
+      "direction_code": "mixed",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S025",
@@ -835,7 +955,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1287/orsc.2024.19036",
       "date_label": "2026-02-25",
-      "citation": "Yanhua Bird; Qi Li; Xiaoyu Zhou (2026). Supervisory Support Shift: The Impact of Disability Inclusion on Coworker Productivity Organization Science. https://doi.org/10.1287/orsc.2024.19036"
+      "citation": "Yanhua Bird; Qi Li; Xiaoyu Zhou (2026). Supervisory Support Shift: The Impact of Disability Inclusion on Coworker Productivity Organization Science. https://doi.org/10.1287/orsc.2024.19036",
+      "direction_code": "worsened",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S026",
@@ -863,12 +988,17 @@
       "direction": "Mixed novelty-value trade-off",
       "status": "Included",
       "year": 2026,
-      "practice_group": "Voice, inclusion & support",
+      "practice_group": "Staffing & careers",
       "design_group": "Quasi-experiment",
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1287/orsc.2025.21133",
       "date_label": "2026-10-13",
-      "citation": "David Wehrheim; Eduardo Melero; Neus Palomeras (2026). The Paradox of Inventors’ Job Security Organization Science. https://doi.org/10.1287/orsc.2025.21133"
+      "citation": "David Wehrheim; Eduardo Melero; Neus Palomeras (2026). The Paradox of Inventors’ Job Security Organization Science. https://doi.org/10.1287/orsc.2025.21133",
+      "direction_code": "mixed",
+      "direction_rationale": "",
+      "lever": "mandate",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S027",
@@ -901,7 +1031,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1093/qje/qjag017",
       "date_label": "2026-03-23",
-      "citation": "Virginia Minni (2026). Making the Invisible Hand Visible: Managers and the Allocation of Workers to Jobs Quarterly Journal of Economics. https://doi.org/10.1093/qje/qjag017"
+      "citation": "Virginia Minni (2026). Making the Invisible Hand Visible: Managers and the Allocation of Workers to Jobs Quarterly Journal of Economics. https://doi.org/10.1093/qje/qjag017",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "attribute",
+      "depth_level": "methods",
+      "prereg": "not_checked"
     },
     {
       "id": "S028",
@@ -934,7 +1069,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1093/qje/qjag022",
       "date_label": "2026-04-24",
-      "citation": "Elio Nimier-David; David Sraer; David Thesmar (2026). The Effects of Mandatory Profit-Sharing on Workers and Firms: Evidence from France Quarterly Journal of Economics. https://doi.org/10.1093/qje/qjag022"
+      "citation": "Elio Nimier-David; David Sraer; David Thesmar (2026). The Effects of Mandatory Profit-Sharing on Workers and Firms: Evidence from France Quarterly Journal of Economics. https://doi.org/10.1093/qje/qjag022",
+      "direction_code": "no_effect",
+      "direction_rationale": "Coded no effect: productivity and investment effects were small to nonexistent; the main effect was redistribution.",
+      "lever": "mandate",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S029",
@@ -967,7 +1107,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1093/qje/qjag027",
       "date_label": "2026-05-12",
-      "citation": "Natalia Emanuel; Emma Harrington; Amanda Pallais (2026). The Power of Proximity to Coworkers Quarterly Journal of Economics. https://doi.org/10.1093/qje/qjag027"
+      "citation": "Natalia Emanuel; Emma Harrington; Amanda Pallais (2026). The Power of Proximity to Coworkers Quarterly Journal of Economics. https://doi.org/10.1093/qje/qjag027",
+      "direction_code": "mixed",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S030",
@@ -1000,7 +1145,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1007/s11187-026-01261-0",
       "date_label": "2026-08-06",
-      "citation": "Mehtabul Azam (2026). The female manager effect: evidence on firm strategy and performance from a Matching Difference-in-Differences design Small Business Economics. https://doi.org/10.1007/s11187-026-01261-0"
+      "citation": "Mehtabul Azam (2026). The female manager effect: evidence on firm strategy and performance from a Matching Difference-in-Differences design Small Business Economics. https://doi.org/10.1007/s11187-026-01261-0",
+      "direction_code": "improved",
+      "direction_rationale": "Coded improved: productivity and sales rose; profit margins showed no significant change.",
+      "lever": "attribute",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S031",
@@ -1033,7 +1183,12 @@
       "scope": "Workplace output",
       "paper_url": "https://doi.org/10.1002/smj.70081",
       "date_label": "2026-03-25",
-      "citation": "Hugh Xiaolong Wu; Yucheng Liang (2026). Social comparison and the value of performance trajectory information: A field experiment in the workplace Strategic Management Journal. https://doi.org/10.1002/smj.70081"
+      "citation": "Hugh Xiaolong Wu; Yucheng Liang (2026). Social comparison and the value of performance trajectory information: A field experiment in the workplace Strategic Management Journal. https://doi.org/10.1002/smj.70081",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S032",
@@ -1066,7 +1221,12 @@
       "scope": "Employment outcome",
       "paper_url": "https://doi.org/10.1093/ej/ueaf063",
       "date_label": "2025-10-30",
-      "citation": "Achyuta Adhvaryu; Smit Gade; Teresa Molina; Anant Nyshadham (2025). Sotto Voce: The Impacts of Technology to Enhance Worker Voice Economic Journal. https://doi.org/10.1093/ej/ueaf063"
+      "citation": "Achyuta Adhvaryu; Smit Gade; Teresa Molina; Anant Nyshadham (2025). Sotto Voce: The Impacts of Technology to Enhance Worker Voice Economic Journal. https://doi.org/10.1093/ej/ueaf063",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "methods",
+      "prereg": "not_checked"
     },
     {
       "id": "S033",
@@ -1099,7 +1259,12 @@
       "scope": "Employment outcome",
       "paper_url": "https://doi.org/10.1111/1748-8583.70012",
       "date_label": "2025-09-16",
-      "citation": "Jane X. Y. Chong; Daniela M. Andrei; Madison C. Kho; Lucinda J. Iles; Sharon K. Parker; Hayley I. Moore (2025). Reducing Job Demands Through a Participatory Work Redesign Intervention: A Quasi‐Experimental Study in Aged Care Human Resource Management Journal. https://doi.org/10.1111/1748-8583.70012"
+      "citation": "Jane X. Y. Chong; Daniela M. Andrei; Madison C. Kho; Lucinda J. Iles; Sharon K. Parker; Hayley I. Moore (2025). Reducing Job Demands Through a Participatory Work Redesign Intervention: A Quasi‐Experimental Study in Aged Care Human Resource Management Journal. https://doi.org/10.1111/1748-8583.70012",
+      "direction_code": "unclear",
+      "direction_rationale": "Coded unclear: job demands fell, but the employment outcomes (turnover, leave) were described as unclear.",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S034",
@@ -1132,7 +1297,12 @@
       "scope": "Employment outcome",
       "paper_url": "https://doi.org/10.1287/mnsc.2023.01204",
       "date_label": "2025-08-22",
-      "citation": "Brittany M. Bond (2025). Cut to the Curve: Underrecognition and Talent Loss from Forced Ranking in a Multinational Firm Management Science. https://doi.org/10.1287/mnsc.2023.01204"
+      "citation": "Brittany M. Bond (2025). Cut to the Curve: Underrecognition and Talent Loss from Forced Ranking in a Multinational Firm Management Science. https://doi.org/10.1287/mnsc.2023.01204",
+      "direction_code": "worsened",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "methods",
+      "prereg": "not_checked"
     },
     {
       "id": "S035",
@@ -1165,7 +1335,12 @@
       "scope": "Employment outcome",
       "paper_url": "https://doi.org/10.1287/mnsc.2024.05301",
       "date_label": "2025-09-19",
-      "citation": "Keith Chen; Katherine Feinerman; Kareem Haggag (2025). Flexible Pay and Labor Supply: Evidence from Uber’s Instant Pay Management Science. https://doi.org/10.1287/mnsc.2024.05301"
+      "citation": "Keith Chen; Katherine Feinerman; Kareem Haggag (2025). Flexible Pay and Labor Supply: Evidence from Uber’s Instant Pay Management Science. https://doi.org/10.1287/mnsc.2024.05301",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S036",
@@ -1198,7 +1373,12 @@
       "scope": "Employment outcome",
       "paper_url": "https://doi.org/10.1287/mnsc.2024.04908",
       "date_label": "2025-09-16",
-      "citation": "Manuel Hoffmann; Roberto Mosquera; Adrian Chadi (2025). Vaccines at Work: Experimental Evidence from a Firm Campaign Management Science. https://doi.org/10.1287/mnsc.2024.04908"
+      "citation": "Manuel Hoffmann; Roberto Mosquera; Adrian Chadi (2025). Vaccines at Work: Experimental Evidence from a Firm Campaign Management Science. https://doi.org/10.1287/mnsc.2024.04908",
+      "direction_code": "no_effect",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S037",
@@ -1231,7 +1411,12 @@
       "scope": "Employment outcome",
       "paper_url": "https://doi.org/10.1162/rest.a.1622",
       "date_label": "2025-10-29",
-      "citation": "Mathias Allemand; Martina Kirchberger; Sveta Milusheva; Carol Newman; Brent W. Roberts; Vincent Thorne (2025). Conscientiousness in the Workplace: Evidence from a Field Experiment in West Africa Review of Economics and Statistics. https://doi.org/10.1162/rest.a.1622"
+      "citation": "Mathias Allemand; Martina Kirchberger; Sveta Milusheva; Carol Newman; Brent W. Roberts; Vincent Thorne (2025). Conscientiousness in the Workplace: Evidence from a Field Experiment in West Africa Review of Economics and Statistics. https://doi.org/10.1162/rest.a.1622",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S038",
@@ -1264,7 +1449,12 @@
       "scope": "Employment outcome",
       "paper_url": "https://doi.org/10.1287/orsc.2024.19407",
       "date_label": "2026-08-19",
-      "citation": "Moshe Barach (2026). Filtering the labor pool: How digitalization redistributes hiring costs Organization Science. https://doi.org/10.1287/orsc.2024.19407"
+      "citation": "Moshe Barach (2026). Filtering the labor pool: How digitalization redistributes hiring costs Organization Science. https://doi.org/10.1287/orsc.2024.19407",
+      "direction_code": "mixed",
+      "direction_rationale": "",
+      "lever": "technology",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S039",
@@ -1297,7 +1487,12 @@
       "scope": "Employment outcome",
       "paper_url": "https://doi.org/10.1093/qje/qjag040",
       "date_label": "2026-08-07",
-      "citation": "Bo Cowgill; Brandon Freiberg; Evan Starr (2026). Clause and Effect: Theory and Field Experimental Evidence on Noncompete Clauses Quarterly Journal of Economics. https://doi.org/10.1093/qje/qjag040"
+      "citation": "Bo Cowgill; Brandon Freiberg; Evan Starr (2026). Clause and Effect: Theory and Field Experimental Evidence on Noncompete Clauses Quarterly Journal of Economics. https://doi.org/10.1093/qje/qjag040",
+      "direction_code": "mixed",
+      "direction_rationale": "Coded mixed: removing noncompetes increased worker mobility (a retention cost to the firm) with no detected leakage of secrets.",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S040",
@@ -1330,7 +1525,12 @@
       "scope": "Employment outcome",
       "paper_url": "https://doi.org/10.1162/rest.a.1866",
       "date_label": "2026-09-08",
-      "citation": "David Van Dijcke; Florian Gunsilius; Austin Wright (2026). Return to Office and the Tenure Distribution Review of Economics and Statistics. https://doi.org/10.1162/rest.a.1866"
+      "citation": "David Van Dijcke; Florian Gunsilius; Austin Wright (2026). Return to Office and the Tenure Distribution Review of Economics and Statistics. https://doi.org/10.1162/rest.a.1866",
+      "direction_code": "worsened",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S041",
@@ -1363,7 +1563,12 @@
       "scope": "Rated/proximal performance",
       "paper_url": "https://doi.org/10.1037/apl0001328",
       "date_label": "2025-11-13",
-      "citation": "Grace J. H. Lim; Marko Pitesa (2025). Bridging the social class capital gap: A psychological intervention in the newcomer adjustment context. Journal of Applied Psychology. https://doi.org/10.1037/apl0001328"
+      "citation": "Grace J. H. Lim; Marko Pitesa (2025). Bridging the social class capital gap: A psychological intervention in the newcomer adjustment context. Journal of Applied Psychology. https://doi.org/10.1037/apl0001328",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "stated"
     },
     {
       "id": "S042",
@@ -1396,7 +1601,12 @@
       "scope": "Rated/proximal performance",
       "paper_url": "https://doi.org/10.1037/apl0001312",
       "date_label": "2025-08-07",
-      "citation": "Wei Wu; Wu Liu; Wen Wu; Yuhuan Xia (2025). Off to a hard start: How job rotation reshapes newcomers’ learning and adjustment process. Journal of Applied Psychology. https://doi.org/10.1037/apl0001312"
+      "citation": "Wei Wu; Wu Liu; Wen Wu; Yuhuan Xia (2025). Off to a hard start: How job rotation reshapes newcomers’ learning and adjustment process. Journal of Applied Psychology. https://doi.org/10.1037/apl0001312",
+      "direction_code": "mixed",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S043",
@@ -1429,7 +1639,12 @@
       "scope": "Rated/proximal performance",
       "paper_url": "https://doi.org/10.1037/apl0001277",
       "date_label": "2025-03-27",
-      "citation": "Jingqiu Chen; Dana R. Vashdi; Qingyue Fan; Peter A. Bamberger; Gilad Chen (2025). The relative effects of design thinking versus after-action review on team performance: An experiential/episodic team learning perspective. Journal of Applied Psychology. https://doi.org/10.1037/apl0001277"
+      "citation": "Jingqiu Chen; Dana R. Vashdi; Qingyue Fan; Peter A. Bamberger; Gilad Chen (2025). The relative effects of design thinking versus after-action review on team performance: An experiential/episodic team learning perspective. Journal of Applied Psychology. https://doi.org/10.1037/apl0001277",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S044",
@@ -1462,7 +1677,12 @@
       "scope": "Rated/proximal performance",
       "paper_url": "https://doi.org/10.1177/01492063241310153",
       "date_label": "2025-02-10",
-      "citation": "Liat Eldor (2025). The Relationship Between Organizational Authenticity Perceptions and Employees’ Work Performance: Evidence From a Field Experiment Journal of Management. https://doi.org/10.1177/01492063241310153"
+      "citation": "Liat Eldor (2025). The Relationship Between Organizational Authenticity Perceptions and Employees’ Work Performance: Evidence From a Field Experiment Journal of Management. https://doi.org/10.1177/01492063241310153",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S045",
@@ -1495,7 +1715,12 @@
       "scope": "Rated/proximal performance",
       "paper_url": "https://doi.org/10.1111/joop.70020",
       "date_label": "2025-04-04",
-      "citation": "Ze Zhu; John A. Aitken; JeongJin Kim; Julia I. Baines; Seth A. Kaplan; Reeshad S. Dalal; Jordan Hassani (2025). Cognitive reappraisal emotion regulation interventions in the workplace and their impact on job performance: An ecological momentary intervention approach Journal of Occupational and Organizational Psychology. https://doi.org/10.1111/joop.70020"
+      "citation": "Ze Zhu; John A. Aitken; JeongJin Kim; Julia I. Baines; Seth A. Kaplan; Reeshad S. Dalal; Jordan Hassani (2025). Cognitive reappraisal emotion regulation interventions in the workplace and their impact on job performance: An ecological momentary intervention approach Journal of Occupational and Organizational Psychology. https://doi.org/10.1111/joop.70020",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S046",
@@ -1528,7 +1753,12 @@
       "scope": "Rated/proximal performance",
       "paper_url": "https://doi.org/10.1002/job.2884",
       "date_label": "2025-04-02",
-      "citation": "André Wagner; Daan van Knippenberg; Lauren D'Innocenzo (2025). Customer‐Oriented Boundary Spanning, Functional Diversity, and Customer Adoption Journal of Organizational Behavior. https://doi.org/10.1002/job.2884"
+      "citation": "André Wagner; Daan van Knippenberg; Lauren D'Innocenzo (2025). Customer‐Oriented Boundary Spanning, Functional Diversity, and Customer Adoption Journal of Organizational Behavior. https://doi.org/10.1002/job.2884",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S047",
@@ -1561,7 +1791,12 @@
       "scope": "Rated/proximal performance",
       "paper_url": "https://doi.org/10.1111/peps.12685",
       "date_label": "2025-05-11",
-      "citation": "Chen Zhang; Zhaodong (Alan) Qiu; Helen H. Zhao; Mengxi Yang; Wansi Chen; Yuan Ma (2025). Harnessing the Potential of Workday Design: The Sequencing of Task Difficulty and Its Implications for Workday Well‐Being and Performance Personnel Psychology. https://doi.org/10.1111/peps.12685"
+      "citation": "Chen Zhang; Zhaodong (Alan) Qiu; Helen H. Zhao; Mengxi Yang; Wansi Chen; Yuan Ma (2025). Harnessing the Potential of Workday Design: The Sequencing of Task Difficulty and Its Implications for Workday Well‐Being and Performance Personnel Psychology. https://doi.org/10.1111/peps.12685",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S048",
@@ -1594,7 +1829,12 @@
       "scope": "Rated/proximal performance",
       "paper_url": "https://doi.org/10.1037/apl0001361",
       "date_label": "2026-02-19",
-      "citation": "Jason H. Moy; Ussama Ahmad Khan; Wei Jee Ong; Christopher M. Barnes (2026). The effects of food insecurity on work outcomes. Journal of Applied Psychology. https://doi.org/10.1037/apl0001361"
+      "citation": "Jason H. Moy; Ussama Ahmad Khan; Wei Jee Ong; Christopher M. Barnes (2026). The effects of food insecurity on work outcomes. Journal of Applied Psychology. https://doi.org/10.1037/apl0001361",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S049",
@@ -1627,7 +1867,12 @@
       "scope": "Rated/proximal performance",
       "paper_url": "https://doi.org/10.1007/s10869-026-10155-7",
       "date_label": "2026-10-03",
-      "citation": "Christoph Reinert; Claudia Buengeler; Bart Voorn; Astrid C. Homan (2026). Stimulating gender-diverse teams’ creativity through team diversity training: A field experiment Journal of Business and Psychology. https://doi.org/10.1007/s10869-026-10155-7"
+      "citation": "Christoph Reinert; Claudia Buengeler; Bart Voorn; Astrid C. Homan (2026). Stimulating gender-diverse teams’ creativity through team diversity training: A field experiment Journal of Business and Psychology. https://doi.org/10.1007/s10869-026-10155-7",
+      "direction_code": "no_effect",
+      "direction_rationale": "Coded no effect: the active-training contrast was not significant; only a conditional indirect pathway was supported.",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S050",
@@ -1660,7 +1905,12 @@
       "scope": "Rated/proximal performance",
       "paper_url": "https://doi.org/10.1111/joop.70138",
       "date_label": "2026-06-29",
-      "citation": "Miika Kujanpää; Claus W. Frølund; Etty R. Nilsen; Anja H. Olafsen (2026). Employee health and performance promotion through the off‐job crafting intervention: A randomized crossover trial Journal of Occupational and Organizational Psychology. https://doi.org/10.1111/joop.70138"
+      "citation": "Miika Kujanpää; Claus W. Frølund; Etty R. Nilsen; Anja H. Olafsen (2026). Employee health and performance promotion through the off‐job crafting intervention: A randomized crossover trial Journal of Occupational and Organizational Psychology. https://doi.org/10.1111/joop.70138",
+      "direction_code": "no_effect",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S051",
@@ -1693,7 +1943,12 @@
       "scope": "Adjacent evidence",
       "paper_url": "https://doi.org/10.1257/aer.20231247",
       "date_label": "2025-07-01",
-      "citation": "Muhammad Yasir Khan (2025). Mission Motivation and Public Sector Performance: Experimental Evidence from Pakistan American Economic Review. https://doi.org/10.1257/aer.20231247"
+      "citation": "Muhammad Yasir Khan (2025). Mission Motivation and Public Sector Performance: Experimental Evidence from Pakistan American Economic Review. https://doi.org/10.1257/aer.20231247",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S052",
@@ -1726,7 +1981,12 @@
       "scope": "Adjacent evidence",
       "paper_url": "https://doi.org/10.1257/aeri.20240581",
       "date_label": "2025 · exact online date unverified",
-      "citation": "Francisco Campos; Michael Frese; Leonardo Iacovone; Hillary C. Johnson; David McKenzie; Mona Mensmann (2025). Long-Term and Lasting Impacts of Personal Initiative Training on Entrepreneurial Success American Economic Review Insights. https://doi.org/10.1257/aeri.20240581"
+      "citation": "Francisco Campos; Michael Frese; Leonardo Iacovone; Hillary C. Johnson; David McKenzie; Mona Mensmann (2025). Long-Term and Lasting Impacts of Personal Initiative Training on Entrepreneurial Success American Economic Review Insights. https://doi.org/10.1257/aeri.20240581",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S053",
@@ -1759,7 +2019,12 @@
       "scope": "Adjacent evidence",
       "paper_url": "https://doi.org/10.1257/aeri.20230594",
       "date_label": "2025 · exact online date unverified",
-      "citation": "Erika Deserranno; Philipp Kastrau; Gianmarco León-Ciliotta (2025). Promotions and Productivity: The Role of Meritocracy and Pay Progression in the Public Sector American Economic Review Insights. https://doi.org/10.1257/aeri.20230594"
+      "citation": "Erika Deserranno; Philipp Kastrau; Gianmarco León-Ciliotta (2025). Promotions and Productivity: The Role of Meritocracy and Pay Progression in the Public Sector American Economic Review Insights. https://doi.org/10.1257/aeri.20230594",
+      "direction_code": "unclear",
+      "direction_rationale": "Coded unclear: the abstract does not report the direction of the main treatment effects.",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S054",
@@ -1792,7 +2057,12 @@
       "scope": "Adjacent evidence",
       "paper_url": "https://doi.org/10.1017/eec.2025.2",
       "date_label": "2025-04-10",
-      "citation": "Emiliano Huet-Vaughn (2025). Do social comparisons motivate workers? A field experiment on relative earnings, labor supply and the inhibitory effect of pay inequality Experimental Economics. https://doi.org/10.1017/eec.2025.2"
+      "citation": "Emiliano Huet-Vaughn (2025). Do social comparisons motivate workers? A field experiment on relative earnings, labor supply and the inhibitory effect of pay inequality Experimental Economics. https://doi.org/10.1017/eec.2025.2",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S055",
@@ -1825,7 +2095,12 @@
       "scope": "Adjacent evidence",
       "paper_url": "https://doi.org/10.1037/apl0001296",
       "date_label": "2025-06-16",
-      "citation": "Shuhua Sun; Zhuyi Angelina Li; Maw-Der Foo; Jing Zhou; Jackson G. Lu (2025). How and for whom using generative AI affects creativity: A field experiment. Journal of Applied Psychology. https://doi.org/10.1037/apl0001296"
+      "citation": "Shuhua Sun; Zhuyi Angelina Li; Maw-Der Foo; Jing Zhou; Jackson G. Lu (2025). How and for whom using generative AI affects creativity: A field experiment. Journal of Applied Psychology. https://doi.org/10.1037/apl0001296",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "technology",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S056",
@@ -1858,7 +2133,12 @@
       "scope": "Adjacent evidence",
       "paper_url": "https://doi.org/10.1086/735511",
       "date_label": "2025 · exact online date unverified",
-      "citation": "Erika Deserranno; A. Stefano Caria; Philipp Kastrau; Gianmarco León-Ciliotta (2025). The Allocation of Incentives in Multilayered Organizations: Evidence from a Community Health Program in Sierra Leone Journal of Political Economy. https://doi.org/10.1086/735511"
+      "citation": "Erika Deserranno; A. Stefano Caria; Philipp Kastrau; Gianmarco León-Ciliotta (2025). The Allocation of Incentives in Multilayered Organizations: Evidence from a Community Health Program in Sierra Leone Journal of Political Economy. https://doi.org/10.1086/735511",
+      "direction_code": "unclear",
+      "direction_rationale": "Coded unclear: results depend on where incentives are placed; no single direction is reported.",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S057",
@@ -1891,7 +2171,12 @@
       "scope": "Adjacent evidence",
       "paper_url": "https://doi.org/10.1016/j.leaqua.2025.101869",
       "date_label": "2025 · exact online date unverified",
-      "citation": "Florian Englmaier; Stefan Grimm; Dominik Grothe; David Schindler; Simeon Schudy (2025). The value of leadership: Evidence from a large-scale field experiment Leadership Quarterly. https://doi.org/10.1016/j.leaqua.2025.101869"
+      "citation": "Florian Englmaier; Stefan Grimm; Dominik Grothe; David Schindler; Simeon Schudy (2025). The value of leadership: Evidence from a large-scale field experiment Leadership Quarterly. https://doi.org/10.1016/j.leaqua.2025.101869",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S058",
@@ -1924,7 +2209,12 @@
       "scope": "Adjacent evidence",
       "paper_url": "https://doi.org/10.1287/mnsc.2022.03844",
       "date_label": "2025-07-04",
-      "citation": "Hongchang Wang; Yingjie Zhang; Tian Lu (2025). The Power of Disagreement: A Field Experiment to Investigate Human–Algorithm Collaboration in Loan Evaluations Management Science. https://doi.org/10.1287/mnsc.2022.03844"
+      "citation": "Hongchang Wang; Yingjie Zhang; Tian Lu (2025). The Power of Disagreement: A Field Experiment to Investigate Human–Algorithm Collaboration in Loan Evaluations Management Science. https://doi.org/10.1287/mnsc.2022.03844",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "technology",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S059",
@@ -1957,7 +2247,12 @@
       "scope": "Adjacent evidence",
       "paper_url": "https://doi.org/10.1287/orsc.2023.17590",
       "date_label": "2025-03-14",
-      "citation": "Rajshree Agarwal; Francesca Bacco; Arnaldo Camuffo; Andrea Coali; Alfonso Gambardella; Haji Msangi; Steven Sonka; Anna Temu; Betty Waized; Audra Wormald (2025). Does a Theory-of-Value Add Value? Evidence from a Randomized Control Trial with Tanzanian Entrepreneurs Organization Science. https://doi.org/10.1287/orsc.2023.17590"
+      "citation": "Rajshree Agarwal; Francesca Bacco; Arnaldo Camuffo; Andrea Coali; Alfonso Gambardella; Haji Msangi; Steven Sonka; Anna Temu; Betty Waized; Audra Wormald (2025). Does a Theory-of-Value Add Value? Evidence from a Randomized Control Trial with Tanzanian Entrepreneurs Organization Science. https://doi.org/10.1287/orsc.2023.17590",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S060",
@@ -1990,7 +2285,12 @@
       "scope": "Adjacent evidence",
       "paper_url": "https://doi.org/10.1093/qje/qjae044",
       "date_label": "2025-02-04",
-      "citation": "Erik Brynjolfsson; Danielle Li; Lindsey Raymond (2025). Generative AI at Work Quarterly Journal of Economics. https://doi.org/10.1093/qje/qjae044"
+      "citation": "Erik Brynjolfsson; Danielle Li; Lindsey Raymond (2025). Generative AI at Work Quarterly Journal of Economics. https://doi.org/10.1093/qje/qjae044",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "technology",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S061",
@@ -2023,7 +2323,12 @@
       "scope": "Adjacent evidence",
       "paper_url": "https://doi.org/10.1037/apl0001359",
       "date_label": "2026-03-05",
-      "citation": "Katherine J. Klein; Shoshana Schwartz; J. R. Keller; David A. Harrison; Jeffrey R. Vittengl; N. Andrew Cohen (2026). For good and for bad: The distinctive effects of successors’ leadership behavior on collective engagement and organizational performance. Journal of Applied Psychology. https://doi.org/10.1037/apl0001359"
+      "citation": "Katherine J. Klein; Shoshana Schwartz; J. R. Keller; David A. Harrison; Jeffrey R. Vittengl; N. Andrew Cohen (2026). For good and for bad: The distinctive effects of successors’ leadership behavior on collective engagement and organizational performance. Journal of Applied Psychology. https://doi.org/10.1037/apl0001359",
+      "direction_code": "mixed",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S062",
@@ -2056,7 +2361,12 @@
       "scope": "Adjacent evidence",
       "paper_url": "https://doi.org/10.1111/jems.70028",
       "date_label": "2026-03-23",
-      "citation": "Marvin Deversi; Lisa Spantig (2026). Incentive and Signaling Effects of Bonus Payments: An Experiment in a Company Journal of Economics and Management Strategy. https://doi.org/10.1111/jems.70028"
+      "citation": "Marvin Deversi; Lisa Spantig (2026). Incentive and Signaling Effects of Bonus Payments: An Experiment in a Company Journal of Economics and Management Strategy. https://doi.org/10.1111/jems.70028",
+      "direction_code": "unclear",
+      "direction_rationale": "Coded unclear: mechanism evidence from a stylized game; no business-output effect.",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S063",
@@ -2089,7 +2399,12 @@
       "scope": "Adjacent evidence",
       "paper_url": "https://doi.org/10.1086/740219",
       "date_label": "2026-05-27",
-      "citation": "Miguel Espinosa; Christopher Stanton (2026). Training, Communications Patterns, and Spillovers inside Organizations Journal of Political Economy. https://doi.org/10.1086/740219"
+      "citation": "Miguel Espinosa; Christopher Stanton (2026). Training, Communications Patterns, and Spillovers inside Organizations Journal of Political Economy. https://doi.org/10.1086/740219",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S064",
@@ -2122,7 +2437,12 @@
       "scope": "Adjacent evidence",
       "paper_url": "https://doi.org/10.1093/jeea/jvag008",
       "date_label": "2026-02-24",
-      "citation": "Julien Senn; Jan Schmitz; Christian Zehnder (2026). Leveraging Social Comparisons: The Role of Peer Assignment Policies for Productivity and Stress Journal of the European Economic Association. https://doi.org/10.1093/jeea/jvag008"
+      "citation": "Julien Senn; Jan Schmitz; Christian Zehnder (2026). Leveraging Social Comparisons: The Role of Peer Assignment Policies for Productivity and Stress Journal of the European Economic Association. https://doi.org/10.1093/jeea/jvag008",
+      "direction_code": "improved",
+      "direction_rationale": "Coded improved: self-chosen and targeted peers both motivated performance; the trade-off concerns stress, not output.",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S065",
@@ -2155,7 +2475,12 @@
       "scope": "Adjacent evidence",
       "paper_url": "https://doi.org/10.1287/mnsc.2021.00840",
       "date_label": "2026-05-07",
-      "citation": "John Morgan; Henrik Orzen; Dana Sisak (2026). Peer Evaluation and Team Performance: An Experiment on Complex Problem Solving Management Science. https://doi.org/10.1287/mnsc.2021.00840"
+      "citation": "John Morgan; Henrik Orzen; Dana Sisak (2026). Peer Evaluation and Team Performance: An Experiment on Complex Problem Solving Management Science. https://doi.org/10.1287/mnsc.2021.00840",
+      "direction_code": "no_effect",
+      "direction_rationale": "",
+      "lever": "employer",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S066",
@@ -2188,7 +2513,12 @@
       "scope": "Adjacent evidence",
       "paper_url": "https://doi.org/10.1287/mnsc.2025.00535",
       "date_label": "2026-02-27",
-      "citation": "Kevin Zheyuan Cui; Mert Demirer; Sonia Jaffe; Leon Musolff; Sida Peng; Tobias Salz (2026). The Effects of Generative AI on High-Skilled Work: Evidence from Three Field Experiments with Software Developers Management Science. https://doi.org/10.1287/mnsc.2025.00535"
+      "citation": "Kevin Zheyuan Cui; Mert Demirer; Sonia Jaffe; Leon Musolff; Sida Peng; Tobias Salz (2026). The Effects of Generative AI on High-Skilled Work: Evidence from Three Field Experiments with Software Developers Management Science. https://doi.org/10.1287/mnsc.2025.00535",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "technology",
+      "depth_level": "abstract",
+      "prereg": "not_checked"
     },
     {
       "id": "S067",
@@ -2221,7 +2551,12 @@
       "scope": "Adjacent evidence",
       "paper_url": "https://doi.org/10.1287/orsc.2025.21838",
       "date_label": "2026-03-11",
-      "citation": "Fabrizio Dell’Acqua; Edward McFowland; Ethan Mollick; Hila Lifshitz; Katherine C. Kellogg; Saran Rajendran; Lisa Krayer; François Candelon; Karim R. Lakhani (2026). Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of Artificial Intelligence on Knowledge Worker Productivity and Quality Organization Science. https://doi.org/10.1287/orsc.2025.21838"
+      "citation": "Fabrizio Dell’Acqua; Edward McFowland; Ethan Mollick; Hila Lifshitz; Katherine C. Kellogg; Saran Rajendran; Lisa Krayer; François Candelon; Karim R. Lakhani (2026). Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of Artificial Intelligence on Knowledge Worker Productivity and Quality Organization Science. https://doi.org/10.1287/orsc.2025.21838",
+      "direction_code": "mixed",
+      "direction_rationale": "",
+      "lever": "technology",
+      "depth_level": "abstract",
+      "prereg": "stated"
     },
     {
       "id": "S068",
@@ -2254,7 +2589,12 @@
       "scope": "Adjacent evidence",
       "paper_url": "https://doi.org/10.1287/orsc.2025.20702",
       "date_label": "2026-06-12",
-      "citation": "Fabrizio Dell’Acqua; Charles Ayoubi; Hila Lifshitz; Raffaella Sadun; Ethan Mollick; Lilach Mollick; Yi Han; Jeff Goldman; Hari Nair; Stew Taub; Karim R. Lakhani (2026). The Cybernetic Teammate: A Field Experiment on Generative AI and Teamwork Organization Science. https://doi.org/10.1287/orsc.2025.20702"
+      "citation": "Fabrizio Dell’Acqua; Charles Ayoubi; Hila Lifshitz; Raffaella Sadun; Ethan Mollick; Lilach Mollick; Yi Han; Jeff Goldman; Hari Nair; Stew Taub; Karim R. Lakhani (2026). The Cybernetic Teammate: A Field Experiment on Generative AI and Teamwork Organization Science. https://doi.org/10.1287/orsc.2025.20702",
+      "direction_code": "improved",
+      "direction_rationale": "",
+      "lever": "technology",
+      "depth_level": "abstract",
+      "prereg": "stated"
     },
     {
       "id": "S069",
@@ -2287,7 +2627,12 @@
       "scope": "Adjacent evidence",
       "paper_url": "https://doi.org/10.1093/qje/qjag004",
       "date_label": "2026-01-21",
-      "citation": "Ben Weidmann; Joseph Vecci; Farah Said; Sonia Bhalotra; Achyuta Adhvaryu; Anant Nyshadham; Jorge Tamayo; David Deming (2026). How Do You Identify a Good Manager? Quarterly Journal of Economics. https://doi.org/10.1093/qje/qjag004"
+      "citation": "Ben Weidmann; Joseph Vecci; Farah Said; Sonia Bhalotra; Achyuta Adhvaryu; Anant Nyshadham; Jorge Tamayo; David Deming (2026). How Do You Identify a Good Manager? Quarterly Journal of Economics. https://doi.org/10.1093/qje/qjag004",
+      "direction_code": "worsened",
+      "direction_rationale": "Coded worsened for the practice of letting managers self-select: they performed worse than randomly selected managers.",
+      "lever": "employer",
+      "depth_level": "methods",
+      "prereg": "not_checked"
     }
   ],
   "screening": [
