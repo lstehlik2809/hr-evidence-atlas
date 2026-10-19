@@ -1,4 +1,6 @@
-# HR Evidence Atlas
+# HR Causal Evidence Map, 2025–26
+
+A single edition, not a living review. (The repository and its URL keep the earlier name, HR Evidence Atlas, so existing links keep working.)
 
 What causal studies published from **1 January 2025 to 18 October 2026** found about HR practices and business performance: 68 experiments, quasi-experiments and observational studies with adjustment, each with its finding, main limitation and a link to the paper.
 
@@ -26,12 +28,12 @@ Published page: https://lstehlik2809.github.io/hr-evidence-atlas/
 - Keep study IDs stable: study links use them.
 - Headline numbers on the page are computed from the data. The walkthrough's worked examples (steps 4–5) name specific studies and need a manual check if those studies' codes change.
 
-## Keeping it current
+## Checking the data against Crossref
 
-The *Monthly evidence check* workflow (`.github/workflows/evidence-check.yml`, also runnable by hand from the Actions tab) runs `tools/crossref_check.py`:
+The *Evidence check* workflow (`.github/workflows/evidence-check.yml`) runs only when started by hand from the Actions tab, since this is a single edition. It runs `tools/crossref_check.py`, which:
 
 - checks every listed DOI against Crossref for title and date;
-- lists new articles in the 49 journals whose titles suggest an HR practice and a causal design.
+- lists articles in the 49 journals, not yet in the inventory or screening log, whose titles suggest an HR practice and a causal design. This catches studies missed inside the window, plus anything published since, which a single edition does not add.
 
 It opens or comments on one issue for manual review and never edits the data. Optionally set a repository variable `CROSSREF_MAILTO` to use Crossref's polite pool.
 
