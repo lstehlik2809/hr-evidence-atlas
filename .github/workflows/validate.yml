@@ -1,0 +1,16 @@
+name: Validate data
+
+# Fails if studies.json is invalid or the copy embedded in index.html is stale.
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/build.py --check

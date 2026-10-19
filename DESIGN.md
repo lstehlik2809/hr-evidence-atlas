@@ -1,59 +1,53 @@
 # Design contract
 
-## Audience and reading task
+## Audience and question
 
-Researchers, people analysts and practitioners asking which HR practices have credible causal evidence on business outcomes. Analytical exploration at reading pace, not operational monitoring.
+HR leaders, people analysts and researchers who want a quick, honest overview of what recent causal studies say about HR practices and business performance, and who may then check individual papers. Reading pace, not monitoring. Light theme, plain language.
 
-Journey: orient to scope → distinguish outcome types → inspect contrasting treatments/results → question identification → find a relevant paper → inspect finding, setting and limitations → open original paper/abstract.
+**Primary question:** when HR practices were tested with credible designs since 2025, did business output improve?
+**Follow-ups:** for which practices? How solid is the evidence? Could my organization do this? Where is the paper?
 
-The default index shows workplace output because that most directly answers the original business-performance question. Employment, rated/proximal and adjacent evidence require an explicit scope change. No pooled effect size, success rate, evidence quality score, causal mediation claim or ROI estimate is inferred.
+Journey: answer (hero) → walkthrough on one evidence map → filtered list → study note → original paper.
 
-## Metric contract
+## Measures
 
-- **Retained papers:** unique DOI records with `status === "Included"`; 68 in this snapshot. Denominator for composition. One unresolved-date record excluded.
-- **Outcome counts:** retained records by normalized scope; 31 workplace output, 9 employment, 10 proximal, 18 adjacent. Metadata scopes describe measurement, not sign or strength.
-- **Matching papers:** retained records matching every active scope, practice, design and search term. CSV uses exactly the same selection, regardless of the first 10/20 displayed rows.
-- **Year/order:** verified first-online date when available; otherwise available online/issue year. Ordering within incomplete-date years is provisional. The date basis is available in each study note.
-- **Reported effect:** source-extracted point estimate, with original outcome, estimand and qualifications. Missing values are not zeros; no cross-paper magnitude scale is displayed.
-- **Review coverage:** 49 selected journals, 9,600 metadata records retrieved, 107 unique candidates individually assessed. Retrieval and human assessment are distinct.
+| Measure | Definition |
+|---|---|
+| Retained studies | `status === "Included"`; 68. One unconfirmed-date candidate is excluded from all counts. |
+| Outcome group | `scope`: business output 31, turnover/absence/hiring 9, rated/self-reported 10, related settings 18. |
+| Result | `direction_code` per [CODEBOOK.md](CODEBOOK.md). A count of studies (vote count), not an effect size. Business output: 16 improved, 7 mixed, 7 worsened, 1 no detectable effect. |
+| Who decides | `lever`: employer 50, law/policy 8, technology 8, manager characteristic 2. |
+| Checking depth | `depth_level`: methods 16, abstract only 52. |
+| Design | `design_group`: randomized 26, natural/quasi 20, experiment with randomization not confirmed 19, observational with adjustment 3. Only 6 of 31 business-output studies are randomized. |
 
-## Panel and interaction plan
+All numbers in the hero and walkthrough are computed from the data at load time. No pooled effect, percentage of "HR that works", quality score or ROI is shown, because the studies estimate different quantities in different settings.
 
-1. Editorial opening: review scope and outcome composition, with exact counts and denominator caveat.
-2. Scroll narrative: sticky context panel tied to five readable notes; numbered controls offer a direct route; reduced motion disables smooth scrolling.
-3. Index: text search and native selects share one state. Count, rows and CSV remain synchronized. Reset restores workplace output, all practices/designs and newest first.
-4. Study note: actual finding, measured outcome, setting/sample, identification, reported estimate, risks, source-check depth and timing. Source link is available from both row and detail.
-5. Methods: journal coverage, screening log and uncertainty, without expanding the main index into a metadata dump.
+## Layout and encoding
 
-Shareable URLs retain filter parameters and selected study. Load-more preserves the full match count; keyboard focus moves to the first newly revealed title. The modal restores focus on close. An empty state distinguishes absence from this filtered inventory from absence of evidence in the literature. Static data have no asynchronous response races. A data-load error has an explicit message and download route.
+- **Hero:** the answer as a unit chart (one mark per business-output study, grouped by result) with the one-sentence summary and the single canonical caveat, linked to "How to read this".
+- **Walkthrough:** seven steps; one persistent evidence map (rows = 7 practice groups ordered by count, columns = 4 outcome groups). Each mark is one study and opens its note. Steps change the highlighting only, so readers keep their place. On phones the map sticks to the top (about 45% of an 844px screen) and the text scrolls beneath it.
+- **Result encoding:** shape *and* color: ▲ improved (green), ◆ mixed (ochre), ▼ worsened (brick), ○ no detectable effect (grey ring), dashed ring unclear. Legible without color. Other steps use filled vs hollow circles in neutral ink.
+- **Text alternative:** "Show the map as a table" gives the same counts with result breakdowns. Each count links to the filtered list. Map marks are not keyboard tab stops; keyboard users reach every study through the table and list.
+- **List:** a compact row: result | title, journal, date, setting, finding, main limitation | design, checking depth, lever (if not employer), links. Default: business output, newest first, 10 rows.
+- **Caveats:** stated once in "How to read this", plus the main limitation on each study. Not repeated elsewhere.
 
-## Visual roles
+## Visual system
 
-Warm white background, dark green ink, muted grey-green context; terracotta for qualifications. Georgia for editorial headings; Arial for reading/UI; Courier only for short metadata labels. Strong title hierarchy, thin rules, generous but purposeful space. Colors never substitute for outcome or direction labels. Percentage estimates are not plotted on a shared scale.
+One system sans-serif for reading and UI; Georgia only for page and section headings, never italic. No monospace, no decorative labels, no gradients. Minimum text 12px; body 16–17px. Color tokens are on `:root`. Direction colors are reserved for results only. Caveats use neutral ink and grey rules, so "limitation" never reads as "worsened". Text contrast ≥ 5:1 on all surfaces; marks and input borders ≥ 3:1.
 
-Desktop uses a side-by-side sticky panel and narrative. Narrow screens use a compact sticky panel above the notes; the study index reflows to a single reading column. No external font dependency.
+## Interaction
 
-## Acceptance tasks
+Filters: search, outcome group (default business output), practice, result, design, who decides. Count, rows and CSV share one selection function. Reset restores the defaults. The URL keeps filters and the open study; invalid parameters fall back to defaults. "Show more" moves focus to the first new row. The dialog returns focus on close. The empty state explains that no match does not mean no research exists.
 
-- Identify window, scope and completeness caveat from the opening.
-- Scroll or use numbered controls to reach mentoring, ranking and IV caveats.
-- Find the mentoring paper; identify mandatory-versus-voluntary contrast and single-firm limit; open its DOI.
-- Find observational HR-bundle papers and inspect their identifying assumptions.
-- Filter to all retained papers and verify 68; default workplace output gives 31; employment gives 9.
-- Search for an absent term; use reset; export only the selected records with limitations.
-- Open/close a detail with keyboard; follow a study URL; inspect narrow reflow and enlarged text if browser tooling permits.
+## Ten failure-mode checks
 
-## Ten recurring failure-mode checks
-
-1. Journey: five notes lead to paper-level investigation.
-2. Hierarchy: editorial title and findings dominate; caveats use restrained emphasis.
-3. Hero plot: outcome composition answers scope; no decorative large chart.
-4. Data dump: curated findings/limitations in rows; full metadata in detail/download.
-5. Labels: actual outcome, treatment, sample and estimator remain explicit.
-6. Buried estimates: estimates stay with their units; heterogeneous quantities are not visually ranked.
-7. Duplication: introductory stories illustrate selected papers; the index is the canonical complete inventory.
-8. Color: stable semantic roles; meaning remains in words.
-9. Typography: local fonts, readable hierarchy, no external asset dependency.
-10. Spacing/scales: shared tokens and consistent rows; no shared effect-size scale.
-
-Verification status is recorded separately in `VERIFICATION.md`; these design intentions are not claims that every browser check passed.
+1. Journey: answer → map walkthrough → list → note → paper.
+2. Hierarchy: the hero answer dominates; caveats are restrained.
+3. Hero plot: the unit chart is the answer itself, and the map's size serves the walkthrough.
+4. Data dump: curated row fields; full metadata in the note and CSV.
+5. Labels: plain outcome, practice and result names on screen; no internal codes.
+6. Buried estimates: the result is the primary encoding; no effect sizes are ranked across incomparable studies.
+7. Duplication: one canonical caveat block.
+8. Color: semantic, reserved for result; shape redundancy.
+9. Typography: system sans plus one serif for headings.
+10. Spacing and scales: shared tokens; the map uses one mark per study throughout.

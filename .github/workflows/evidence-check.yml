@@ -1,0 +1,38 @@
+name: Monthly evidence check
+
+# Verifies listed DOIs against Crossref and lists new candidate studies.
+# Opens (or comments on) an issue for manual review; never edits the data.
+on:
+  schedule:
+    - cron: "17 6 3 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - name: Query Crossref
+        env:
+          CROSSREF_MAILTO: ${{ vars.CROSSREF_MAILTO }}
+        run: python3 tools/crossref_check.py --out evidence-check.md
+      - name: Open or update the review issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if ! head -1 evidence-check.md | grep -q "Needs attention: yes"; then
+            echo "Nothing needs attention."
+            exit 0
+          fi
+          title="Evidence check: studies and candidates to review"
+          existing=$(gh issue list --state open --search "\"$title\" in:title" --json number --jq '.[0].number')
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body-file evidence-check.md
+          else
+            gh issue create --title "$title" --body-file evidence-check.md
+          fi

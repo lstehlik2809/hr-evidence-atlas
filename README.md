@@ -1,25 +1,38 @@
 # HR Evidence Atlas
 
-A light-theme scrollytelling explorer of recent causal evidence on HR practices and organizational performance, covering **1 January 2025–18 October 2026**.
+What causal studies published from **1 January 2025 to 18 October 2026** found about HR practices and business performance: 68 experiments, quasi-experiments and observational studies with adjustment, each with its finding, main limitation and a link to the paper.
 
-## Read and explore
+Published page: https://lstehlik2809.github.io/hr-evidence-atlas/
 
-The page has five scroll-led reading notes with a sticky evidence panel, followed by a searchable research index. Each study includes findings, measured outcomes, setting/sample, identification design, limitations, source-check depth, date qualifications and a DOI link to the original paper/abstract. Filters, study deep links, citation copying, filtered CSV exports and a complete data download are included.
+## What the page does
 
-`index.html` is self-contained: its HTML, CSS, JavaScript and research inventory are embedded. No build, package installation, external fonts, analytics, API keys or backend is required. `studies.json` is the structured snapshot.
+1. **Answers first.** The opening shows how many of the 31 business-output studies improved, worsened or had mixed results.
+2. **Walks through the evidence.** Seven scroll steps share one evidence map (practice × outcome measured). Each step changes what the map highlights: where evidence is dense or thin, result direction, backfires, implementation dependence, design strength, and whether an employer can choose the practice.
+3. **Lets readers check every study.** A filterable list (outcome, practice, result, design, who decides) with the finding, main limitation, design, checking depth and paper link. Each study note gives the coding rationale, sample, estimate and date basis. Filters and study notes have shareable URLs; the current selection downloads as CSV.
+
+`index.html` is self-contained: HTML, CSS, JavaScript and data in one file, with no build step for readers, no external fonts and no analytics.
 
 ## Scope and limits
 
-68 retained papers: 31 workplace-output papers, 9 employment-outcome papers, 10 rated/proximal-performance papers and 18 adjacent papers. One further candidate has an unresolved publication date and is excluded from retained counts. 38 near misses and uncertain candidates are documented separately.
-
-This is a broad, single-reviewer scoping inventory, **not an exhaustive systematic review**. Metadata were retrieved across 49 selected journals; 107 unique candidates were individually assessed from abstracts and selected full-text methods. Verification depth and identification assumptions vary and are stated per paper. No pooled effect, evidence score or universal HR ROI is estimated.
-
-## Publishing
-
-GitHub Pages serves the root of the default branch. `.nojekyll` keeps the page a plain static site.
+- 68 retained studies: 31 business output, 9 turnover/absence/hiring, 10 rated or self-reported performance, 18 related settings (AI tools, public sector, lab tasks). One further candidate with an unconfirmed publication date is excluded from counts.
+- A broad scoping inventory from 49 selected journals, screened by a single reviewer; **not a systematic review**.
+- Result codes are **vote counts drafted by an AI assistant and not yet reviewed by a person**. See [CODEBOOK.md](CODEBOOK.md). No pooled effect, quality score or HR ROI is estimated.
+- 52 of 68 studies were checked at abstract level only; 16 against methods sections.
 
 ## Maintenance
 
-Edit the structured data and embedded copy together. Preserve record IDs for durable study links. Update all scope counts and review dates when changing the inventory. Check source publication history, outcome definition, treatment/estimand, uncertainty, identifying assumptions and verification depth before adding a paper. Practice/design groupings are navigation codes, not causal quality grades.
+- Edit `studies.json`, then run `python3 tools/build.py`. It validates the data and the codebook, and embeds the data into `index.html`. `python3 tools/build.py --check` (run by the *Validate data* workflow on every push) fails if the embedded copy is stale.
+- New codes need a matching row in `CODEBOOK.md`.
+- Keep study IDs stable: study links use them.
+- Headline numbers on the page are computed from the data. The walkthrough's worked examples (steps 4–5) name specific studies and need a manual check if those studies' codes change.
 
-`DESIGN.md` describes the information-design contract. `VERIFICATION.md` records checks and remaining limits.
+## Keeping it current
+
+The *Monthly evidence check* workflow (`.github/workflows/evidence-check.yml`, also runnable by hand from the Actions tab) runs `tools/crossref_check.py`:
+
+- checks every listed DOI against Crossref for title and date;
+- lists new articles in the 49 journals whose titles suggest an HR practice and a causal design.
+
+It opens or comments on one issue for manual review and never edits the data. Optionally set a repository variable `CROSSREF_MAILTO` to use Crossref's polite pool.
+
+`DESIGN.md` describes the information-design contract. `VERIFICATION.md` records what was checked and what was not.
